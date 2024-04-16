@@ -19,7 +19,7 @@ Bubble Sort is a simple sorting algorithm that repeatedly steps through the arra
 ## How to Use
 
 1. Open the https://sortingvisualizernsangal.netlify.app
-2. Click the "Start" button to start the visualization.
+2. Click the "Play" button to start the visualization.
 3. Watch as the elements move into their sorted positions.
 4. Listen to the sound effects accompanying each sorting action.
 
