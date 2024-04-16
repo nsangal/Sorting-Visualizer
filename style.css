@@ -1,0 +1,37 @@
+#container{
+    margin-top: 4rem;
+    height: 200px;
+    display: flex;
+    align-items: flex-end;/*initially bars are updie down, to make it reverse we use flex end*/
+}
+body{
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+.bar{
+    width: 10px;
+    background-color: black;
+    margin: 1px;/*spacing bw bars */
+}
+
+button{
+    background-color: rgb(240,240,240);
+    padding: 2rem;
+    border-radius: 0.9rem;
+    font-size: 1.25rem;
+    cursor: pointer;
+    font-weight:bold
+}
+button:hover{
+    background-color:rgb(165,165,165);
+
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btns{
+    margin-top: 4rem;
+   
+}
