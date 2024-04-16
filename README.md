@@ -1,4 +1,4 @@
-# Sorting-Visualizer: Bubble Sort
+# Sorting-Visualizer: Bubble Sort with Sound
 This project is a visualization tool for understanding the Bubble Sort algorithm.
 
 ## Demo
